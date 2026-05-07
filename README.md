@@ -21,6 +21,8 @@ Open Source. Modular. Unter eigener Kontrolle.
 
 👉 Entwickelt für Wahlfreiheit statt Plattformabhängigkeit.
 
+![Principle of the sovereign IDP ](img/sovereign-idp-concept.png)
+
 ---
 
 ## Produktivität und digitale Souveränität gemeinsam denken
