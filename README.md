@@ -260,19 +260,35 @@ folgen in diesem Repository.
 
 Wir glauben:
 
-Europa braucht keine langsamere Digitalisierung.
+Europa darf seine digitale Zukunft nicht aus der Hand geben.
+
+Deshalb arbeiten wir an souveränen Entwicklerplattformen, die moderne Softwareentwicklung, KI und digitale Innovation ermöglichen — ohne neue technologische Abhängigkeiten zu schaffen.
 
 Europa braucht:
 
-* leistungsfähige digitale Plattformen,
-* produktive Entwicklerumgebungen,
-* offene Standards,
+* leistungsfähige Plattformen
+* produktive Entwicklerarbeitsplätze
+* offene Standards
 * souveräne Optionen
-* und einfache Nutzbarkeit.
+* und echte Wahlfreiheit
 
 Denn:
 
-> Souveränität bedeutet Wahlfreiheit.
+> Souveränität bedeutet, selbst entscheiden zu können.
+
+---
+
+# Über dieses Projekt
+
+Dieses Projekt wurde von meshcloud initiiert.
+
+Wir arbeiten mit Organisationen aus öffentlichem Sektor, Energie, Finanzen und weiteren regulierten Bereichen daran, moderne Plattformen souverän und produktiv nutzbar zu machen.
+
+Wir glauben:
+
+> Ein starkes digitales Ökosystem ist die Grundlage von Freiheit, Innovation und Wohlstand.
+
+Deshalb arbeiten wir an offenen und modularen Plattformansätzen, die digitale Handlungsfähigkeit stärken statt neue Abhängigkeiten zu schaffen.
 
 ---
 
@@ -310,3 +326,13 @@ Mit unserem Produkt **meshStack** helfen wir Organisationen dabei,
 * und gleichzeitig technologische Wahlfreiheit zu erhalten.
 
 Die Sovereign IDP ist die konsequente Weiterentwicklung dieser Idee für das AI-Zeitalter. Sie ist quelloffen und unabhängig von meshStack nutzbar. Denn Souveränität heißt Wahlfreiheit.
+
+## Kontaktdaten
+
+meshcloud GmbH  
+Schaumainkai 91  
+60596 Frankfurt am Main  
+Germany  
+www.meshcloud.io  
+info@meshcloud.io  
+
