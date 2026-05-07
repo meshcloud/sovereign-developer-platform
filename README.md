@@ -1,4 +1,25 @@
-# Souveräne Developer Platforms
+# Souveräne Softwareentwicklung mit Sovereign Internal Developer Platforms (IDPs)
+
+## Eine offene Developer Platform für souveräne AI-gestützte Softwareentwicklung
+
+Provisioniert in Minuten für Entwicklungsteams die passende Umgebung für ihre Projekte:
+
+* Kubernetes Workspace
+* Git-Repository
+* CI/CD-Pipeline
+* Container Registry
+* AI-Model-Zugang
+* Governance & Policies
+
+über europäische und hybride Cloud-Plattformen hinweg.
+
+Entwickler erhalten eine Entwicklungsumgebung mit der sie in Minuten produktiv werden. Mit gleichem Leistungsumfang auf unterschiedlichen Cloudanbietern. Angepasst an die eigenen Organisationsvorgaben.
+
+Open Source. Modular. Unter eigener Kontrolle.
+
+👉 Entwickelt für Wahlfreiheit statt Plattformabhängigkeit.
+
+---
 
 ## Produktivität und digitale Souveränität gemeinsam denken
 
@@ -18,15 +39,22 @@ Die Fähigkeit,
 
 Gerade im öffentlichen Sektor, in regulierten Industrien und kritischen Infrastrukturen wird diese Frage immer relevanter.
 
-Denn AI verändert die Geschwindigkeit der Softwareentwicklung fundamental.
+Entwicklerteams können heute mit kleinen Teams und AI-Unterstützung Anwendungen in einer Geschwindigkeit bauen, die vor wenigen Jahren kaum vorstellbar war.
 
-Die entscheidende Herausforderung lautet deshalb nicht mehr:
+Damit werden Entwicklerplattformen zur strategischen Infrastruktur:
+Die Plattformen, auf denen Software entsteht, bestimmen zunehmend:
 
-> „Nutzen wir AI?“
+welche Technologien genutzt werden,
+welche Anbieter sich etablieren,
+und wie souverän Organisationen langfristig bleiben.
+
+Die entscheidende Frage lautet deshalb nicht mehr:
+
+„Nutzen wir AI?“
 
 Sondern:
 
-> „Auf welcher technologischen Grundlage bauen wir unsere digitale Zukunft auf?“
+„Auf welchen Plattformen entsteht unsere digitale Zukunft?“
 
 ---
 
