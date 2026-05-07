@@ -25,6 +25,19 @@ Open Source. Modular. Unter eigener Kontrolle.
 
 ---
 
+## Quellcode
+
+Der Quellcode ist modular aufgebaut und als Open Source verfügbar:
+
+|Referenzarchitektur|Link|
+|-------------------|----|
+| STACKIT | <https://hub.meshcloud.io/reference-architectures/stackit-kubernetes> |
+|  Azure | <https://hub.meshcloud.io/reference-architectures/azure-kubernetes> |
+
+Die Links verweisen jeweils auf eine Beschreibung der Referenzarchitektur. Von dort sind die Quellen der einzelnen Module auf github verlinkt.
+
+---
+
 ## Produktivität und digitale Souveränität gemeinsam denken
 
 Europa steht vor einer entscheidenden Frage:
@@ -195,50 +208,6 @@ Organisationen sollen:
 
 Die Plattform soll befähigen — nicht einsperren.
 
-## Quellcode
-
-Der Quellcode ist modular aufgebaut und als Open Source verfügbar:
-
-Referenzarchitektur STACKIT: <https://hub.meshcloud.io/reference-architectures/stackit-kubernetes>
-Referenzarchitektur Azure: <https://hub.meshcloud.io/reference-architectures/azure-kubernetes>
-
----
-
-# meshcloud — Unsere Perspektive auf digitale Souveränität
-
-meshcloud entstand ursprünglich aus einer EXIST-Förderung mit dem Ziel, offene Cloud-Ökosysteme und föderierte Plattformansätze voranzutreiben.
-
-Bereits in den frühen Jahren beschäftigten wir uns mit Themen wie:
-
-* Open Cloud Federation
-* Multi-Cloud-Nutzung
-* organisatorischer Governance
-* Plattformstandardisierung
-* und der Verbindung von Produktivität und Wahlfreiheit
-
-Später arbeiteten wir intensiv mit großen Unternehmen, regulierten Industrien und öffentlichen Institutionen zusammen — darunter Organisationen aus:
-
-* Automobil
-* Energie
-* Finanzen
-* öffentlicher Verwaltung
-* kritischer Infrastruktur
-
-In dieser Zeit wurde deutlich:
-
-Die zentrale Herausforderung moderner Plattformlandschaften ist nicht die Existenz verschiedener Technologien.
-
-Die Herausforderung ist ihre organisatorische Nutzbarkeit.
-
-Mit unserem Produkt **meshStack** helfen wir Organisationen dabei,
-
-* verschiedene Plattformen kontrollierbar zu integrieren,
-* Governance zu vereinheitlichen,
-* Entwickler produktiver zu machen
-* und gleichzeitig technologische Wahlfreiheit zu erhalten.
-
-Die Sovereign IDP ist die konsequente Weiterentwicklung dieser Idee für das AI-Zeitalter.
-
 ---
 
 # Warum das gerade jetzt wichtig ist
@@ -304,3 +273,40 @@ Europa braucht:
 Denn:
 
 > Souveränität bedeutet Wahlfreiheit.
+
+---
+
+# meshcloud — Unsere Perspektive auf digitale Souveränität
+
+meshcloud entstand ursprünglich aus einer EXIST-Förderung des BMWE mit dem Ziel, offene Cloud-Ökosysteme und föderierte Plattformansätze voranzutreiben.
+
+Bereits in den frühen Jahren beschäftigten wir uns mit Themen wie:
+
+* Open Cloud Federation
+* Multi-Cloud-Nutzung
+* organisatorischer Governance
+* Plattformstandardisierung
+* und der Verbindung von Produktivität und Wahlfreiheit
+
+Später arbeiteten wir intensiv mit großen Unternehmen, regulierten Industrien und öffentlichen Institutionen zusammen — darunter Organisationen aus:
+
+* Automobil
+* Energie
+* Finanzen
+* öffentlicher Verwaltung
+* kritischer Infrastruktur
+
+In dieser Zeit wurde deutlich:
+
+Die zentrale Herausforderung moderner Plattformlandschaften ist nicht die Existenz verschiedener Technologien.
+
+Die Herausforderung ist ihre organisatorische Nutzbarkeit.
+
+Mit unserem Produkt **meshStack** helfen wir Organisationen dabei,
+
+* verschiedene Plattformen kontrollierbar zu integrieren,
+* Governance zu vereinheitlichen,
+* Entwickler produktiver zu machen
+* und gleichzeitig technologische Wahlfreiheit zu erhalten.
+
+Die Sovereign IDP ist die konsequente Weiterentwicklung dieser Idee für das AI-Zeitalter. Sie ist quelloffen und unabhängig von meshStack nutzbar. Denn Souveränität heißt Wahlfreiheit.
