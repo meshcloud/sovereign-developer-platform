@@ -1,8 +1,10 @@
-# Souveräne Softwareentwicklung mit Sovereign Internal Developer Platforms (IDPs)
+# Souveräne Softwareentwicklung
 
 ## Eine offene Developer Platform für souveräne AI-gestützte Softwareentwicklung
 
-Provisioniert in Minuten für Entwicklungsteams die passende Umgebung für ihre Projekte:
+Wir bauen eine Sovereign Internal Developer Platform (IDP) für Organisationen, die Produktivität und Souveränität in der Softwareentwicklung verbinden wollen.
+
+Die Sovereign IDP provisioniert in Minuten die passende Umgebung für ihre Applikationen:
 
 * Kubernetes Workspace
 * Git-Repository
@@ -13,7 +15,7 @@ Provisioniert in Minuten für Entwicklungsteams die passende Umgebung für ihre 
 
 über europäische und hybride Cloud-Plattformen hinweg.
 
-Entwickler erhalten eine Entwicklungsumgebung mit der sie in Minuten produktiv werden. Mit gleichem Leistungsumfang auf unterschiedlichen Cloudanbietern. Angepasst an die eigenen Organisationsvorgaben.
+Entwickler erhalten eine Entwicklungsumgebung mit der sie in Minuten produktiv werden. Mit gleichem Leistungsumfang auf unterschiedlichen Cloudanbietern. Angepasst an die eigenen Organisationsvorgaben. Es können auch andere Laufzeitumgebungen und Tech Stacks provisioniert werden (z.B. VMs, Storage, Network usw.).
 
 Open Source. Modular. Unter eigener Kontrolle.
 
