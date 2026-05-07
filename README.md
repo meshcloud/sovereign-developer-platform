@@ -21,7 +21,7 @@ Open Source. Modular. Unter eigener Kontrolle.
 
 👉 Entwickelt für Wahlfreiheit statt Plattformabhängigkeit.
 
-![Principle of the sovereign IDP ](img/sovereign-idp-concept.png)
+![Prinzip der Sovereign IDP](img/sovereign-idp-concept.png)
 
 ---
 
@@ -141,8 +141,6 @@ Zum Beispiel:
 
 Die Plattform abstrahiert diese Vielfalt nicht weg — sie macht sie nutzbar.
 
-![Sovereign IDP Architektur](./assets/sovereign-idp-overview.png)
-
 ---
 
 # Von Wochen zu Minuten
@@ -197,6 +195,13 @@ Organisationen sollen:
 
 Die Plattform soll befähigen — nicht einsperren.
 
+## Quellcode
+
+Der Quellcode ist modular aufgebaut und als Open Source verfügbar:
+
+Referenzarchitektur STACKIT: <https://hub.meshcloud.io/reference-architectures/stackit-kubernetes>
+Referenzarchitektur Azure: <https://hub.meshcloud.io/reference-architectures/azure-kubernetes>
+
 ---
 
 # meshcloud — Unsere Perspektive auf digitale Souveränität
@@ -213,6 +218,7 @@ Bereits in den frühen Jahren beschäftigten wir uns mit Themen wie:
 
 Später arbeiteten wir intensiv mit großen Unternehmen, regulierten Industrien und öffentlichen Institutionen zusammen — darunter Organisationen aus:
 
+* Automobil
 * Energie
 * Finanzen
 * öffentlicher Verwaltung
